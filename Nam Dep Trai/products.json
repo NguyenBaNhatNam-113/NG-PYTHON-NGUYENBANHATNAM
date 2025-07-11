@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "ten": "Beyblade Burst",
+    "gia": 450000,
+    "hinhanh": "images/1.png",
+    "mota": "Beyblade Burst với thiết kế con quay mạnh mẽ, tốc độ cao.",
+    "category": "Beyblade"
+  },
+  {
+    "id": 2,
+    "ten": "Beyblade Burst Xtreme",
+    "gia": 480000,
+    "hinhanh": "images/2.png",
+    "mota": "Phiên bản nâng cấp của Beyblade Burst, bền hơn và mạnh hơn.",
+    "category": "Beyblade"
+  },
+  {
+    "id": 3,
+    "ten": "Beyblade Burst Turbo",
+    "gia": 420000,
+    "hinhanh": "images/2.png",
+    "mota": "Con quay Beyblade với khả năng tăng tốc vượt trội.",
+    "category": "Beyblade"
+  },
+  {
+    "id": 4,
+    "ten": "Beyblade Burst Pro",
+    "gia": 500000,
+    "hinhanh": "images/1.png",
+    "mota": "Dành cho người chơi chuyên nghiệp, độ chính xác cao.",
+    "category": "Beyblade"
+  },
+  {
+    "id": 5,
+    "ten": "Beyblade Burst Legend",
+    "gia": 460000,
+    "hinhanh": "images/2.png",
+    "mota": "Phiên bản giới hạn với thiết kế độc đáo và mạnh mẽ.",
+    "category": "Beyblade"
+  },
+  {
+    "id": 6,
+    "ten": "Beyblade Burst Elite",
+    "gia": 470000,
+    "hinhanh": "images/1.png",
+    "mota": "Con quay với hiệu ứng ánh sáng khi quay, cực kỳ bắt mắt.",
+    "category": "Beyblade"
+  },
+  {
+    "id": 7,
+    "ten": "Kamen Rider Gavv",
+    "gia": 550000,
+    "hinhanh": "images/2.png",
+    "mota": "Đồ chơi Kamen Rider Gavv với chi tiết sắc nét, đầy đủ phụ kiện.",
+    "category": "Kamen Rider Gavv"
+  },
+  {
+    "id": 8,
+    "ten": "Kamen Rider Gavv Deluxe",
+    "gia": 580000,
+    "hinhanh": "images/1.png",
+    "mota": "Phiên bản cao cấp với âm thanh và hiệu ứng ánh sáng.",
+    "category": "Kamen Rider Gavv"
+  },
+  {
+    "id": 9,
+    "ten": "Kamen Rider Gavv Alpha",
+    "gia": 530000,
+    "hinhanh": "images/2.png",
+    "mota": "Mô hình Kamen Rider với khớp nối linh hoạt, dễ tạo dáng.",
+    "category": "Kamen Rider Gavv"
+  },
+  {
+    "id": 10,
+    "ten": "Kamen Rider Gavv Beta",
+    "gia": 540000,
+    "hinhanh": "images/1.png",
+    "mota": "Phiên bản đặc biệt với áo giáp có thể tháo rời.",
+    "category": "Kamen Rider Gavv"
+  },
+  {
+    "id": 11,
+    "ten": "Kamen Rider Gavv Ultimate",
+    "gia": 600000,
+    "hinhanh": "images/2.png",
+    "mota": "Mô hình giới hạn với chi tiết chạm khắc tinh xảo.",
+    "category": "Kamen Rider Gavv"
+  },
+  {
+    "id": 12,
+    "ten": "Galaxy Orbit Set",
+    "gia": 650000,
+    "hinhanh": "images/1.png",
+    "mota": "Bộ Galaxy Orbit Set với nhiều vòng quay đặc biệt.",
+    "category": "Galaxy Orbit Set"
+  },
+  {
+    "id": 13,
+    "ten": "Galaxy Orbit Set Pro",
+    "gia": 680000,
+    "hinhanh": "images/2.png",
+    "mota": "Bộ đồ chơi với sân đấu cải tiến và con quay mạnh mẽ.",
+    "category": "Galaxy Orbit Set"
+  },
+  {
+    "id": 14,
+    "ten": "Galaxy Orbit Set Star",
+    "gia": 630000,
+    "hinhanh": "images/1.png",
+    "mota": "Bộ sản phẩm với thiết kế vũ trụ lấp lánh, độc đáo.",
+    "category": "Galaxy Orbit Set"
+  },
+  {
+    "id": 15,
+    "ten": "Galaxy Orbit Set Cosmic",
+    "gia": 660000,
+    "hinhanh": "images/2.png",
+    "mota": "Con quay với hiệu ứng ánh sáng mô phỏng thiên hà.",
+    "category": "Galaxy Orbit Set"
+  },
+  {
+    "id": 16,
+    "ten": "Galaxy Orbit Set Nebula",
+    "gia": 640000,
+    "hinhanh": "images/1.png",
+    "mota": "Bộ đồ chơi với vòng quay siêu bền và tốc độ cao.",
+    "category": "Galaxy Orbit Set"
+  },
+  {
+    "id": 17,
+    "ten": "Ziku Driver",
+    "gia": 300000,
+    "hinhanh": "images/2.png",
+    "mota": "Ziku Driver dùng để thay đổi các chế độ của con quay.",
+    "category": "Ziku Driver"
+  },
+  {
+    "id": 18,
+    "ten": "Ziku Driver Enhanced",
+    "gia": 320000,
+    "hinhanh": "images/1.png",
+    "mota": "Phiên bản cải tiến với nhiều chế độ quay hơn.",
+    "category": "Ziku Driver"
+  },
+  {
+    "id": 19,
+    "ten": "Ziku Driver Turbo",
+    "gia": 310000,
+    "hinhanh": "images/2.png",
+    "mota": "Thiết bị tăng tốc cho con quay, nhỏ gọn và hiệu quả.",
+    "category": "Ziku Driver"
+  },
+  {
+    "id": 20,
+    "ten": "Ziku Driver Pro",
+    "gia": 330000,
+    "hinhanh": "images/1.png",
+    "mota": "Phiên bản chuyên nghiệp với thiết kế chắc chắn.",
+    "category": "Ziku Driver"
+  },
+  {
+    "id": 21,
+    "ten": "Ziku Driver Elite",
+    "gia": 340000,
+    "hinhanh": "images/2.png",
+    "mota": "Ziku Driver với hiệu ứng âm thanh khi kích hoạt.",
+    "category": "Ziku Driver"
+  },
+  {
+    "id": 22,
+    "ten": "Ziku Driver Ultimate",
+    "gia": 350000,
+    "hinhanh": "images/1.png",
+    "mota": "Phiên bản giới hạn với các chế độ quay độc quyền.",
+    "category": "Ziku Driver"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "product": {
+      "id": 20,
+      "ten": "Ziku Driver Pro",
+      "gia": 330000,
+      "hinhanh": "images/1.png",
+      "mota": "Phiên bản chuyên nghiệp với thiết kế chắc chắn.",
+      "category": "Ziku Driver"
+    },
+    "quantity": 1
+  }
+]
